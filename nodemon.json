@@ -1,9 +1,0 @@
-{
-    "env":{
-        "DB_USER":"yaman",
-        "DB_PASSWORD":"yumyum00",
-        "DB_NAME":"mern",
-        "GEOCODE_API_KEY":"5ff3f3197f188e7e08708189e059ff38efed1f5",
-        "JWT_KEY":"yaman_mern_app"
-    }
-}
